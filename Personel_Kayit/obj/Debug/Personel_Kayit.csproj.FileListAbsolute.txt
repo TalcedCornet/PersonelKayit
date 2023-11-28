@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form1.resources
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Form2.resources
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.manifest
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.application
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe.manifest
+H:\Visual Studio 2022\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.application
